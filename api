@@ -1,0 +1,43 @@
+const api key= f84fd37d67fd9ca186caf85fb33a78e3
+f84fd37d67fd9ca186caf85fb33a78e
+
+const projectid =movie-app-30f88
+
+
+
+// Import the functions you need from the SDKs you need
+import { initializeApp } from "firebase/app";
+import { getAnalytics } from "firebase/analytics";
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
+
+// Your web app's Firebase configuration
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+const firebaseConfig = {
+  apiKey: "AIzaSyD0HkSpYABekJlBtpGXJ18FiSqC3bGuYEE",
+  authDomain: "movie-app-30f88.firebaseapp.com",
+  projectId: "movie-app-30f88",
+  storageBucket: "movie-app-30f88.appspot.com",
+  messagingSenderId: "737987266256",
+  appId: "1:737987266256:web:707a49088d143dc87dc0d5",
+  measurementId: "G-50MK96EDMJ"
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
+const analytics = getAnalytics(app);
+
+
+
+
+CONFIG
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+const firebaseConfig = {
+  apiKey: "AIzaSyD0HkSpYABekJlBtpGXJ18FiSqC3bGuYEE",
+  authDomain: "movie-app-30f88.firebaseapp.com",
+  projectId: "movie-app-30f88",
+  storageBucket: "movie-app-30f88.appspot.com",
+  messagingSenderId: "737987266256",
+  appId: "1:737987266256:web:707a49088d143dc87dc0d5",
+  measurementId: "G-50MK96EDMJ"
+};
